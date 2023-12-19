@@ -1,0 +1,2 @@
+# splendids
+ecommerce-website-template
